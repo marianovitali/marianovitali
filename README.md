@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Mariano 👋</h1>
 
-<h3 align="center">👨‍💻 Backend Developer C# / .NET | Programming Student at UTN 🎓</h3>
+<h3 align="center">👨‍💻 Backend Developer C# / .NET | Software Development Student at UTN 🎓</h3>
 
 ---
 
