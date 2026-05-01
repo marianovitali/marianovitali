@@ -1,10 +1,10 @@
 <h1 align="center">Hi everyone, I'm Mariano 👋</h1>
 
-<h3 align="center">👨‍💻 Backend Developer C# / .NET | Software Development Student at UTN 🎓</h3>
+<h3 align="center"> Backend Developer C# / .NET | Software Development Student at UTN 🎓</h3>
 
 ---
 
-### 🚀 About me
+###  About me
 
 * 🌱 I’m currently focusing on **Backend Development** with a strong focus on the **.NET ecosystem** (C#, ASP.NET Core, Web APIs).
 * 🎓 Programming student at the National Technological University [UTN].
